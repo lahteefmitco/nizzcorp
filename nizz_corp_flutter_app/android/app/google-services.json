@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125038119463",
+    "project_id": "latheef-project-68ea1",
+    "storage_bucket": "latheef-project-68ea1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125038119463:android:269d7f34c45a95598c9c02",
+        "android_client_info": {
+          "package_name": "com.example.niz_corp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZuxP1sFyke7U0FGdKC4LXsh6cIc-okN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
